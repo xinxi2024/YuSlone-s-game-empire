@@ -187,7 +187,7 @@ const games = [
     {
         id: 24,
         title: "井字棋",
-        url: "https://ysloaner-jzq.vercel.app/",
+        url: "https://sloaner-ttt.netlify.app/",
         category: "board",
         image: "images/games/game-24.jpg",
         description: "经典的二人对战游戏，轮流在3×3网格中放置X或O，先将三个标记连成一线的玩家获胜。简单但有策略性的游戏。"
@@ -223,22 +223,6 @@ const games = [
         category: "board",
         image: "images/games/game-28.jpg",
         description: "古老的东方战略棋盘游戏，黑白两方交替在棋盘交叉点上放置棋子，通过包围对方棋子获取领地。深厚的策略性，简单的规则。"
-    },
-    {
-        id: 29,
-        title: "国际象棋",
-        url: "https://ysloaner-international-chess-game.vercel.app/",
-        category: "board",
-        image: "images/games/game-29.jpg",
-        description: "经典的战略棋盘游戏，双方交替移动不同类型的棋子，目标是将对方的国王将死。丰富的战术和战略深度。"
-    },
-    {
-        id: 30,
-        title: "涂鸦板",
-        url: "https://ysloaner-draw.vercel.app/",
-        category: "puzzle",
-        image: "images/games/game-30.jpg",
-        description: "在线绘画工具，释放你的创造力。提供多种画笔、颜色和工具，可以随时保存和分享你的作品。"
     }
 ];
 
