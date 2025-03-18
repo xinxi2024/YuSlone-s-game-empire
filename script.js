@@ -223,6 +223,22 @@ const games = [
         category: "board",
         image: "images/games/game-28.jpg",
         description: "古老的东方战略棋盘游戏，黑白两方交替在棋盘交叉点上放置棋子，通过包围对方棋子获取领地。深厚的策略性，简单的规则。"
+    },
+    {
+        id: 29,
+        title: "国际象棋",
+        url: "https://ysloaner-website.netlify.app/",
+        category: "board",
+        image: "images/games/game-29.jpg",
+        description: "国际象棋，又称西洋棋，是一项源远流长的智力竞技运动，被誉为“智慧的体操”。国际象棋不仅考验玩家的逻辑思维、策略规划和心理素质，更是一种充满魅力、富含哲理的文化艺术。"
+    },
+    {
+        id: 30,
+        title: "涂鸦板",
+        url: "https://sloaner-graffiti-board.netlify.app//",
+        category: "arcade",
+        image: "images/games/game-30.jpg",
+        description: "涂鸦板项目旨在为用户提供一个自由创作的空间，让他们在数字环境中尽情发挥想象力。"
     }
 ];
 
