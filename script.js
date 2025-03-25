@@ -247,7 +247,16 @@ const games = [
         category: "puzzle",
         image: "images/games/game-31.jpg", // 请替换为实际图片路径
         description: "模拟人生重开的选择游戏，通过不同的选择影响人生轨迹。每次重开都会有不同的结局，体验不同的人生可能性。"
+    },
+    {
+        id: 32,
+        title: "围住小偷",
+        url: "https://ysloaner-sutt.netlify.app/",
+        category: "puzzle",
+        image: "images/games/game-32.jpg",
+        description: "经典的围住小偷游戏，通过合理放置障碍物，成功围住小偷即可获胜。考验你的策略和逻辑思维能力。"
     }
+    
 ];
 
 // 游戏类别中文描述
