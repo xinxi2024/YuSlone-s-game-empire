@@ -243,7 +243,7 @@ const games = [
     {
         id: 31,
         title: "人生重开模拟器",
-        url: "https://ysloaner-lrs.netlify.app/", // 请替换为实际链接
+        url: "https://ysloaner-lre.netlify.app/", // 请替换为实际链接
         category: "puzzle",
         image: "images/games/game-31.jpg", // 请替换为实际图片路径
         description: "模拟人生重开的选择游戏，通过不同的选择影响人生轨迹。每次重开都会有不同的结局，体验不同的人生可能性。"
